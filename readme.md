@@ -3,6 +3,8 @@
 # Roadmap - Backend
 
 Here it will be posted and updated a path to study `backend`. Also, it will be available some links to help with studies.
+  - You can click in link bellow to interact with the guide study in `Miro`
+    - [Miro](https://miro.com/app/board/uXjVOdgC0bE=/?invite_link_id=877734252279)
 
 # Backend
 ## How does the internet works?
