@@ -15,3 +15,6 @@ Here it will be posted and updated a path to study `backend`. Also, it will be a
 ## What is HTTP?
 1. [YouTube](https://www.youtube.com/watch?v=wW2A5SZ3GkI)
 1. [Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
+
+## Browsers and how they work?
+1. [YouTube](https://www.youtube.com/watch?v=kDy62zaCHZE)
