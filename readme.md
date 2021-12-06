@@ -18,3 +18,8 @@ Here it will be posted and updated a path to study `backend`. Also, it will be a
 
 ## Browsers and how they work?
 1. [YouTube](https://www.youtube.com/watch?v=kDy62zaCHZE)
+
+## DNS and how it works?
+1. [Kinsta](https://kinsta.com/pt/base-de-conhecimento/o-que-e-dns/)
+1. [YouTube](https://www.youtube.com/watch?v=oukRwnVAamo)
+1. [GoDaddy](https://br.godaddy.com/help/o-que-e-dns-665)
