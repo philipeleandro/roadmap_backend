@@ -16,6 +16,5 @@
 1. [GoDaddy](https://br.godaddy.com/help/o-que-e-dns-665)
 
 ## What is domain name?
-1. [Kinsta](https://kinsta.com/pt/base-de-conhecimento/o-que-e-dns/)
-1. [YouTube](https://www.youtube.com/watch?v=oukRwnVAamo)
-1. [GoDaddy](https://br.godaddy.com/help/o-que-e-dns-665)
+1. [Mozilla](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)
+1. [YouTube](https://www.youtube.com/watch?v=bFpSJrzzqPU&list=PLtcmVcOuK65x-Mxn6n-Dhk0kpnJucY31n)
