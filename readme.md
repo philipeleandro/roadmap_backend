@@ -7,5 +7,5 @@ Here it will be posted and updated a path to study `backend`. Also, it will be a
     - [Miro](https://miro.com/app/board/uXjVOdgC0bE=/?invite_link_id=877734252279)
 
 # Subjects:
-  - Each one of these topics will guide you to a page with more details about them.
+  - Each one of these `topics` will guide you to a page with more details about them.
     - [Internet](https://github.com/philipeleandro/roadmap_backend/blob/master/internet_subject.md)
