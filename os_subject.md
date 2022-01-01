@@ -1,6 +1,8 @@
 # Ubuntu OS and Knowlegde
-## Create a HD partition to install Ubuntu OS (Dual Boot)
+## Create a HD partition
 1.[name_link]()
+
+## Install Ubuntu OS
 
 ## What is Bash?
 
