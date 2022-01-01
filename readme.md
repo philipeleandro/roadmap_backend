@@ -9,4 +9,4 @@ Here it will be posted and updated a path to study `backend`. Also, it will be a
 # Subjects:
   - Each one of these `topics` will guide you to a page with more details about them.
     - [Internet](https://github.com/philipeleandro/roadmap_backend/blob/master/internet_subject.md)
-    - [Ubuntu OS and Knowledge]() status
+    - [Ubuntu OS and Knowledge](https://github.com/philipeleandro/roadmap_backend/blob/master/os_subject.md)
