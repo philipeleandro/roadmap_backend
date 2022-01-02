@@ -1,6 +1,4 @@
 # Ubuntu OS and Knowlegde
-## Create a HD partition
-1. [Text]()
 
 ## Install Ubuntu OS
 1. [YouTube](https://www.youtube.com/watch?v=6D6L9Wml1oY&ab_channel=Diolinux)
