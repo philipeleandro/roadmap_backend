@@ -10,6 +10,7 @@
 
 ## Terminal Usage
 1. [dev.to](https://dev.to/nrobinson2000/why-you-need-terminal-bpd)
+1. [Linux hint](https://linuxhint.com/30_bash_script_examples/)
 
 ## Basics Terminal commands
 1. [Linux hint](https://linuxhint.com/basic-25-ubuntu-commands/)
