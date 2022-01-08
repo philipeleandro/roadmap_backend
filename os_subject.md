@@ -15,6 +15,7 @@
 1. [Linux hint](https://linuxhint.com/basic-25-ubuntu-commands/)
 1. [Diolinux](https://diolinux.com.br/sistemas-operacionais/principais-comandos-do-linux-saiba-o.html)
 1. [Vitux](https://vitux.com/40-most-used-ubuntu-commands/)
+1. [dev.to](https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je)
 
 ## Shell Script
 1. [Guia Linux](https://guialinux.uniriotec.br/shell/)
