@@ -19,7 +19,7 @@
 ## Shell Script
 1. [Guia Linux](https://guialinux.uniriotec.br/shell/)
 1. [Dev Media](https://www.devmedia.com.br/introducao-ao-shell-script-no-linux/25778)
-1. [Linux Force](hhttps://www.linuxforce.com.br/comandos-linux/comandos-linux-comando-sh/)
+1. [Linux Force](https://www.linuxforce.com.br/comandos-linux/comandos-linux-comando-sh/)
 
 ## Z Shell
 1. [dev.to](https://dev.to/lissadev/instalando-e-utilizando-zsh-42gm)
