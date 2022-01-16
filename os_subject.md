@@ -30,3 +30,6 @@
 
 ## Oh my ZSH
 1. [Blog Betrybe](https://blog.betrybe.com/ferramentas/oh-my-zsh/#:~:text=O%20Oh%20My%20Zsh%20%C3%A9%20um%20framework%20open%20source%20que,padr%C3%A3o%20oferecido%20pelo%20sistema%20operacional.https://www.programandocomcarlos.com.br/2020/02/oh-my-zsh-melhorando-produtividade-do.html)
+
+## Linux directory structure
+1. [How to geek](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)
