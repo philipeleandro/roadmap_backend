@@ -1,4 +1,4 @@
-![Mind Map (2)](https://user-images.githubusercontent.com/92264330/148653610-a0c59b7f-24b8-4d80-a387-1ef7c409457e.jpg)
+![Mind Map (3)](https://user-images.githubusercontent.com/92264330/149671613-08026161-28f5-49c4-a70c-66040444a244.jpg)
 
 # Roadmap - Backend
 
